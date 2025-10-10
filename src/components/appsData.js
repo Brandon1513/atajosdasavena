@@ -292,14 +292,14 @@ const apps = [
     title: "Activos TI Dasavena ",
     description:
       "Plataaforma para la gestión de activos de TI en Dasavena.",
-    url: "https://sigdasa.domcloud.dev/",
+    url: "https://sistemas.dasavena-intranet.com/",
   },
   {
     image: sgi,
     title: "Compras Dasavena",
     description:
       "Plataforma para la gestión de compras en Dasavena.",
-    url: "https://compras.dasavena-intranet.com/dashboard",
+    url: "https://compras.dasavena-intranet.com",
   },
   {
     image: sharePoint,
