@@ -288,6 +288,20 @@ const apps = [
     url: "https://sigdasa.domcloud.dev/",
   },
   {
+    image: sgi,
+    title: "Activos TI Dasavena ",
+    description:
+      "Plataaforma para la gestión de activos de TI en Dasavena.",
+    url: "https://sigdasa.domcloud.dev/",
+  },
+  {
+    image: sgi,
+    title: "Compras Dasavena",
+    description:
+      "Plataforma para la gestión de compras en Dasavena.",
+    url: "https://compras.dasavena-intranet.com/dashboard",
+  },
+  {
     image: sharePoint,
     title: "Share Point SGI",
     description:
