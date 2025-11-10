@@ -308,6 +308,13 @@ const apps = [
       "Plataforma de colaboración que permite gestionar documentos, compartir información y coordinar proyectos dentro de la organización.",
     url: "https://dasavenagourmet123.sharepoint.com/sites/SistemadeGestion",
   },
+  {
+    image: sgi,
+    title: "Dasavena Data",
+    description:
+      "Dasavena Data es una plataforma diseñada para facilitar la gestión y análisis de datos. Aquí podrás importar, visualizar y gestionar información de manera eficiente.",
+    url: "https://dasavenadata.domcloud.dev/",
+  },
 ];
 
 export default apps;
