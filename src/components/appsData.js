@@ -319,7 +319,7 @@ const apps = [
     image: sgi,
     title: "SoporteInnovación",
     description:
-      "Dasavena Data es una plataforma diseñada para facilitar la gestión y análisis de datos. Aquí podrás importar, visualizar y gestionar información de manera eficiente.",
+      "Aplicación para gestionar solicitudes de soporte e innovación tecnológica dentro de la empresa.",
     url: "https://apps.powerapps.com/play/e/default-e4c56574-c116-4d00-bcfd-95c771672ffc/a/dcd59f89-9306-4ce1-b6c5-eac204c65bce?tenantId=e4c56574-c116-4d00-bcfd-95c771672ffc&hint=204fe94a-eb08-4c15-a71e-9c1adc2f3fa6&source=sharebutton&sourcetime=1767712427339",
   },
 ];
